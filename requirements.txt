@@ -1,0 +1,6 @@
+streamlit
+PyMuPDF==1.23.23
+sentence-transformers
+chromadb
+google-genai
+pillow
